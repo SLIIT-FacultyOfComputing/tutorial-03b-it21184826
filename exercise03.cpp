@@ -3,12 +3,18 @@
 using namespace std;
 
 int volume(int height, int width, int length);
+struct Box {
+int Height;
+int Width;
+int Length;
+};
 
 // 1. Define a structure called Box
 // have the integer data types Height, Width, Length
 
 // Do not change the main function
 int main() {
+  struct Box box1.Height 
     // 2. Create a variable called box1 of the Box structure type
     // int box1Height, box1Width, box1Length;
     // 3. Create a variable called box2 of the Box structure type
